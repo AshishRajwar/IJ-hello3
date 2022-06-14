@@ -16,7 +16,9 @@ public class Hello3Application {
 	@GetMapping("/hello3")
 	public String getHello()  {
 
-		System.out.println("This is hello3 service");
+
+
+		System.out.println("This is hello3 ser");
 		System.out.println("This is hello3 service2");
 		System.out.println("This is hello3 service2");
 		if (true) {
